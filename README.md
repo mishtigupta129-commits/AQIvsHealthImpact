@@ -59,10 +59,6 @@ AQIvsHealthImpact/
 ├── machinelearningproject.ipynb
 ├── dataset.csv
 ├── README.md
-```
-
-*(Replace `dataset.csv` with your actual dataset filename if it's different.)*
-
 ---
 
 # ⚙️ Project Workflow
